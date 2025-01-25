@@ -5,6 +5,7 @@
 [![Version](https://img.shields.io/badge/Version-1.0.0-orange)]()
 
 nthLink是一款安全、可靠的免费VPN工具，支持多平台，让您畅享无阻的网络体验。由Open Technology Fund和Google Jigsaw等机构支持，确保您的网络安全和隐私保护。
+![nthlink logo](https://github.com/EmberSky99/nthlink-vpn/blob/main/nthlink.png)
 
 ## ✨ 主要特点
 
