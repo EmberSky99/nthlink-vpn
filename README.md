@@ -18,7 +18,7 @@ NthlinkVPN 是一款由 **Open Technology Fund (OTF)** 与 **Google Jigsaw** 等
 
 | 平台 | 适用版本 | 下载链接 |
 | --- | --- | --- |
-| **Windows** | Win 7 / 8 / 10 / 11 | [GitHub Releases (x64/x86)](https://gh-proxy.org/https://github.com/EmberSky99/nthlink-vpn/releases/download/last/nthlink-win-current-last.exe) |
+| **Windows** | Win 7 / 8 / 10 / 11 | [Windows 客户端 下载](https://gh-proxy.org/https://github.com/EmberSky99/nthlink-vpn/releases/download/last/nthlink-win-current-last.exe) |
 | **macOS** | 10.12 及以上版本 | [Mac App Store 下载](https://apps.apple.com/us/app/nthlink/id1536318872?mt=12) |
 | **iOS** | iOS 12.0 及以上版本 | [App Store 官方下载](https://apps.apple.com/us/app/nthlink/id1467297604) |
 | **Android** | Android 6.0 及以上版本 | [Google Play 商店](https://play.google.com/store/apps/details?id=com.nthlink.android.client) |
